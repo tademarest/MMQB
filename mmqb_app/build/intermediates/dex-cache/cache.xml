@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ty/AndroidStudioProjects/mmqb_app/app/libs/processing-core.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e863dd7fcbd18a481378158c483df0f3045df9ac">
+        <dex dex="/home/ty/AndroidStudioProjects/mmqb_app/app/build/intermediates/pre-dexed/release/processing-core-80d842df2918efd628285a1740ce38e6278a1d0f.jar" />
+    </item>
+
+</items>
